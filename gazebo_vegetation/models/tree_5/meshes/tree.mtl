@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Bark___S
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.194510 0.138039 0.172549
+Ks 0.498039 0.480392 0.425490
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bark___S.jpg

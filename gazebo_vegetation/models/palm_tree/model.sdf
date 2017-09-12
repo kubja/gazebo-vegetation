@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="Palm Tree">
+     <static>true</static>
+    <link name="link">
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <scale>0.02 0.02 0.02</scale>
+            <uri>model://palm_tree/meshes/palm_tree.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+
+            <scale>0.02 0.02 0.02</scale>
+            <uri>model://palm_tree/meshes/palm_tree.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

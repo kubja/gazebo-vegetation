@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Summer_B
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.197647 0.329412 0.053333
+Ks 0.366667 0.405882 0.294118
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Summer_B.jpg
